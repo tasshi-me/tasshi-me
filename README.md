@@ -28,4 +28,4 @@ https://wakatime.com/share
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Languages over Last 30 Days](https://wakatime.com/share/@tasshi/f2033692-bd6a-45a9-a156-a1a44b627721.png)](https://wakatime.com/@tasshi) | [![Coding Activity over Last 30 Days](https://wakatime.com/share/@tasshi/d1782c6b-b78d-4cf6-8326-c6b958d09bc6.png)](https://wakatime.com/@tasshi) |
 
-### Still have time? Check my Pinned Repos!
+### Still have time? Check my Pinned Repos! :point_down:
