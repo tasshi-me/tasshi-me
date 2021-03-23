@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mshrtsr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Metrics](https://raw.githubusercontent.com/mshrtsr/metrics/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+[![Metrics](https://raw.githubusercontent.com/mshrtsr/metrics/main/github-metrics.svg)](https://github.com/mshrtsr/metrics)
 
 <!--
 ### The Stats over Last 30 Days (Powered by wakatime.com)
