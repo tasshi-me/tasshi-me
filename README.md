@@ -4,7 +4,7 @@ Software Enginner at [Cybozu Inc.](https://github.com/cybozu)
 [![Twitter: tasshi_me](https://img.shields.io/twitter/follow/tasshi_me?style=social)](https://twitter.com/tasshi_me)
 [![GitHub tasshi-me](https://img.shields.io/github/followers/tasshi-me?label=follow&style=social)](https://github.com/tasshi-me)
 <!--
-**mshrtsr/mshrtsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tasshi-me/tasshi-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
